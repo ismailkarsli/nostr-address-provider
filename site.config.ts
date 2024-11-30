@@ -3,10 +3,10 @@ export default {
   host: "nost.tr",
 
   // set to true to disable registration site-wide
-  registrationDisabled: true,
+  registrationDisabled: false,
 
   // site slogan
-  slogan: "Private nostr addresses.",
+  slogan: "Free nostr addresses.",
 
   // your donation LNURL
   donationLNUrl:
